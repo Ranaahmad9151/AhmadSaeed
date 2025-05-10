@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Saeed</h1>
 <h3 align="center">A passionate data scientist and ai/ml engineer from pakistan</h3>
-<img align="right" alt="Data Science" width="1000" src="[https://zielbit.com/en/data-science-with-python-r](https://imarticus.org/blog/wp-content/uploads/2021/03/hhfhwf.gif)">
+<img align="right" alt="Data Science" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/03/hhfhwf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranaahmad9151&label=Profile%20views&color=0e75b6&style=flat" alt="ranaahmad9151" /> </p>
 
