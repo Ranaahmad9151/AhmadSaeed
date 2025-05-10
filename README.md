@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Saeed</h1>
 <h3 align="center">A passionate data scientist and ai/ml engineer from pakistan</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.odinschool.com/blog/data-science-projects-for-beginners-and-advanced)">
+<img align="right" alt="Coding" width="400" src="file:///C:/Users/ranaa/Downloads/featured.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranaahmad9151&label=Profile%20views&color=0e75b6&style=flat" alt="ranaahmad9151" /> </p>
 
